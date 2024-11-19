@@ -26,10 +26,6 @@
 ![Fact](https://img.shields.io/badge/-I%20love%20coding%20at%20night-FF69B4)
 ![Fact](https://img.shields.io/badge/-Coffee%20is%20my%20fuel-6F4E37)
 
-## 📫 How to reach me
-![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white): karan.r1184@gmail.com
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): [Karan Rathod](https://www.linkedin.com/in/karanrathod1184/)
-
 ---
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
