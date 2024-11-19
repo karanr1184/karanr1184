@@ -14,13 +14,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanr1184&layout=compact&theme=radical)
 
 ## 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=karanr1184&color=brightgreen)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karanr1184&theme=darkhub)
 
 ## 🌟 Featured Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=karanr1184&repo=repo-name&theme=radical)](https://github.com/karanr1184/hospFinder)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=karanr1184&repo=hospFinder&theme=radical)](https://github.com/karanr1184/hospFinder)
 
 ## 🎨 Fun Facts
 ![Fact](https://img.shields.io/badge/-I%20love%20coding%20at%20night-FF69B4)
