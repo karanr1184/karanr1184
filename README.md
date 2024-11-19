@@ -1,5 +1,4 @@
 # 👋 Hi there I am Karan Rathod
-# Welcome to My GitHub Profile!
 
 ## 🚀 Tech Skills
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
