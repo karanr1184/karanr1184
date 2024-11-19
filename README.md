@@ -1,15 +1,37 @@
-## <center> Hi there 👋 </center>
-<!--
-**karanr1184/karanr1184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there I am Karan Rathod
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+## 🚀 Tech Skills
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?logo=tensorflow&logoColor=white) 
+- ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4A90E2?logo=dataiku&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
+
+## 🌟 Featured Repositories
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=radical)](https://github.com/yourusername/repo-name)
+
+## 🎨 Fun Facts
+- ![Fact](https://img.shields.io/badge/-I%20love%20coding%20at%20night-FF69B4)
+- ![Fact](https://img.shields.io/badge/-Coffee%20is%20my%20fuel-6F4E37)
+
+## 📫 How to reach me
+- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white): your.email@example.com
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): [Your Name](https://www.linkedin.com/in/yourprofile/)
+- ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white): [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
