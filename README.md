@@ -9,28 +9,27 @@
 - ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4A90E2?logo=dataiku&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karanr1184&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanr1184&layout=compact&theme=radical)
 
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karanr1184&theme=darkhub)
 
 ## 🌟 Featured Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=radical)](https://github.com/yourusername/repo-name)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=karanr1184&repo=repo-name&theme=radical)](https://github.com/karanr1184/HospFinder)
 
 ## 🎨 Fun Facts
 - ![Fact](https://img.shields.io/badge/-I%20love%20coding%20at%20night-FF69B4)
 - ![Fact](https://img.shields.io/badge/-Coffee%20is%20my%20fuel-6F4E37)
 
 ## 📫 How to reach me
-- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white): your.email@example.com
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): [Your Name](https://www.linkedin.com/in/yourprofile/)
-- ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white): [@yourhandle](https://twitter.com/yourhandle)
+- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white): karan.r1184@gmail.com
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): [Karan Rathod](https://www.linkedin.com/in/karanrathod1184/)
 
 ---
 
